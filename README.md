@@ -1,0 +1,1 @@
+# myazure-quickstart-templates
